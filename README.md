@@ -69,14 +69,6 @@ https://github.com/SEU-USUARIO/financial-control-app
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
-
----
-
 # 📚 Currently Studying / Estudando Atualmente
 
 - Data Structures
